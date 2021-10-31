@@ -54,7 +54,7 @@ conda install git
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+git clone https://github.com/sndpkirwai/deep-learning-pytorch.git
 cd deep-learning-pytorch
 ```
 
@@ -62,8 +62,8 @@ cd deep-learning-pytorch
 
 	- __Linux__ or __Mac__: 
 	```
-	conda create -n deep-learning python=3.6
-	source activate deep-learning
+	conda create -n deep-learning-pytorch python=3.6
+	source activate deep-learning-pytorch
 	```
 	- __Windows__: 
 	```
